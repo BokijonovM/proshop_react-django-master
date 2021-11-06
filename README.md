@@ -1,5 +1,9 @@
 # PropShop Ecommerce Website With Django + React
-![Design and Development](https://github.com/BokijonovM/BokijonovM/blob/main/AddText_11-06-12.09.13.jpg)
+![Design and Development](https://github.com/BokijonovM/proshop_django-master/blob/main/1.png)
+![Design and Development](https://github.com/BokijonovM/proshop_django-master/blob/main/2.png)
+![Design and Development](https://github.com/BokijonovM/proshop_django-master/blob/main/3.png)
+![Design and Development](https://github.com/BokijonovM/proshop_django-master/blob/main/4.png)
+![Design and Development](https://github.com/BokijonovM/proshop_django-master/blob/main/5.png)
 
 # Features
 * Full featured shopping cart
