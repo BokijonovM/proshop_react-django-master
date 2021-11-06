@@ -1,5 +1,5 @@
 # PropShop Ecommerce Website With Django + React
-
+![Design and Development](https://github.com/BokijonovM/BokijonovM/blob/main/AddText_11-06-12.09.13.jpg)
 
 # Features
 * Full featured shopping cart
